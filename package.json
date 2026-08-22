@@ -1,0 +1,13 @@
+{
+  "name": "practica-final-devops",
+  "version": "1.0.0",
+  "description": "Practica Final DevOps CI/CD con GitHub",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
